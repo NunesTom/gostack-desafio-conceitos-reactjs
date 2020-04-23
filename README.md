@@ -6,7 +6,7 @@
 </h4>
 
 <p align="center">
-  <a href="https://app.codacy.com/manual/NunesTom/gostack-desafio-conceitos-nodejs?utm_source=github.com&utm_medium=referral&utm_content=NunesTom/gostack-desafio-conceitos-nodejs&utm_campaign=Badge_Grade_Dashboard">
+  <a href="https://app.codacy.com/manual/NunesTom/gostack-desafio-conceitos-reactjs?utm_source=github.com&utm_medium=referral&utm_content=NunesTom/gostack-desafio-conceitos-reactjs&utm_campaign=Badge_Grade_Dashboard">
     <img alt="Codacy grade" src="https://api.codacy.com/project/badge/Grade/e10c9d0bf08b4a779e65473641e98895">
   </a>
 </p>
