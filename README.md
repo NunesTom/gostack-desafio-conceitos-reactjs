@@ -18,6 +18,9 @@
 </p>
 
 ## O que aprendi?
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e5cac2140ccc4848aecc9360fa325866)](https://app.codacy.com/manual/NunesTom/gostack-desafio-conceitos-reactjs?utm_source=github.com&utm_medium=referral&utm_content=NunesTom/gostack-desafio-conceitos-reactjs&utm_campaign=Badge_Grade_Dashboard)
+
 - Utilizar babel;
 - Consulta de registro via api com o axios;
 - Incluir registro via api com axios;
